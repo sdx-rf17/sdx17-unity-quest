@@ -1,0 +1,50 @@
+# Unity standard .gitignore for the Sdx17 Quest Framework
+# Generated folders — never commit these; Unity rebuilds them on open.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Asset meta files: DO commit .meta files for every asset you add.
+# Unity needs them to keep GUIDs stable. This file does NOT ignore *.meta.
+
+# Visual Studio / Rider / VS Code
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.idea/
+.vscode/
+
+# OS artefacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Crash reports
+sysinfo.txt
+*.stackdump
+
+# Package cache (only when this repo is a full Unity project, not a package)
+# Kept here so the same file works if the package is dropped into a project.
+[Pp]ackages/

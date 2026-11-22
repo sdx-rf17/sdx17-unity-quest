@@ -1,0 +1,1 @@
+{"allowUnsafeCode":false,"autoReferenced":true,"defineConstraints":[],"excludePlatforms":[],"includePlatforms":["Editor"],"name":"Sdx17.Quest.Editor","noEngineReferences":false,"overrideReferences":false,"precompiledReferences":[],"references":["Sdx17.Quest.Runtime"],"rootNamespace":"Sdx17.Quest.Editor","versionDefines":[]}

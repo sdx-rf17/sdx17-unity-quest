@@ -1,0 +1,16 @@
+Third-Party Notices — Sdx17 Quest Framework (com.sdx17.quest), version 0.1.0
+
+No third-party code, fonts, audio or assets are included in this package.
+
+All code in this package (Runtime/, Editor/, Samples~/Demo/, Tests~/)
+is original work by Sdx17, written for this package, and licensed
+under the MIT License (see LICENSE, Copyright 2026 Sdx17).
+
+No bundled dependencies. The package has no paid dependencies and
+requires only Unity 2022.3 LTS itself. It ships no third-party
+libraries, no fonts, no audio files, no textures, no models, no
+prefabs, and no other third-party assets of any kind.
+
+If a future version adds any third-party material, this file will be
+updated to list it, with its license and source, before that version
+is released.
